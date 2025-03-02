@@ -1,7 +1,4 @@
-# better_market_maker.py
-Here's the `README.md` for your project:
 
----
 
 # Better Market Maker (BMM) Algorithm
 
